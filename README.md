@@ -1,5 +1,6 @@
 <h1 align="center">:grinning: Hi there, Victor here!👋</h1>
-
+<br>
+<br>
 <a align="center" target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,11 +19,12 @@
 <a target="_blank" href="https://fb.com/Clauvander.Victor.1">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<br>
 <p align="left">
 Hello everyone 👋, you can call me Victor, I'm Developped Full Stack from Brasil :brazil:, 23 years old :dizzy: and 7 of coding :robot:, I love to study code security :heart_eyes: and play video-games :video_game:.
 </p>
-
+<br>
+<br>
 <h3 align="left">Languages an Tools</h3>
 
 <br>
