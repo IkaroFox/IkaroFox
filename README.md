@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="left">
-Hello everyone 👋, you can call me Victor, I'm Developped Full Stack from Brasil :brazil:, 23 years old :dizzy: and 7 of coding :robot:, I love to study code security :heart_eyes: and play video-games :video_game:.
+Hello everyone 👋, you can call me Victor, I'm Developed Full Stack from Brasil :brazil:, 23 years old :dizzy: and 7 of coding :robot:, I love to study code security :heart_eyes: and play video-games :video_game:.
 </p>
 <hr>
 <br>
@@ -43,4 +43,6 @@ Hello everyone 👋, you can call me Victor, I'm Developped Full Stack from Bras
 <hr>
 <br>
 <br>
-![IkaroFox GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkaroFox&show_icons=true)
+### Interesting stats
+
+![IkaroFox stats](https://github-readme-stats.vercel.app/api?username=IkaroFox&show_icons=true)
