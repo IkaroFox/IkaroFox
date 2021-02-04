@@ -4,6 +4,7 @@
 <p align="left">
 Hello everyone 👋, you can call me Victor, I'm Developped Full Stack from Brasil :brazil:, 23 years old :dizzy: and 7 of coding :robot:, I love to study code security :heart_eyes: and play video-games :video_game:.
 </p>
+<hr>
 <br>
 <h3 align="left">Contate Me :calling:	</h3>
 <br>
@@ -25,7 +26,8 @@ Hello everyone 👋, you can call me Victor, I'm Developped Full Stack from Bras
 <a target="_blank" href="https://fb.com/Clauvander.Victor.1">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br>
+<hr>
+<br><br>
 <h3 align="left">Languages an Tools</h3>
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -38,3 +40,7 @@ Hello everyone 👋, you can call me Victor, I'm Developped Full Stack from Bras
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<hr>
+<br>
+<br>
+![IkaroFox GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkaroFox&show_icons=true)
