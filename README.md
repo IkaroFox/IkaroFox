@@ -6,7 +6,7 @@ Hello everyone 👋, you can call me Victor, I'm Developed Full Stack from Brasi
 </p>
 <hr>
 <br>
-<h3 align="left">Contate Me :calling:	</h3>
+<h3 align="left"> <Strong> - Contate Me :calling: </Strong>	</h3>
 <br>
 <a align="center" target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -28,7 +28,7 @@ Hello everyone 👋, you can call me Victor, I'm Developed Full Stack from Brasi
 </a>
 <hr>
 <br><br>
-<h3 align="left">Languages an Tools</h3>
+<h3 align="left"> <Strong> - Languages an Tools </Strong> </h3>
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -43,6 +43,6 @@ Hello everyone 👋, you can call me Victor, I'm Developed Full Stack from Brasi
 <hr>
 <br>
 <br>
-### Interesting stats
+<h3> <Strong> - Interesting stats </Strong> </h3>
 
 ![IkaroFox stats](https://github-readme-stats.vercel.app/api?username=IkaroFox&show_icons=true)
