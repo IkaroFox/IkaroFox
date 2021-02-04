@@ -26,6 +26,7 @@ Hello everyone 👋, you can call me Victor, I'm Developed Full Stack from Brasi
 <a target="_blank" href="https://fb.com/Clauvander.Victor.1">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br>
 <hr>
 <br><br>
 <h3 align="left"> <Strong> - Languages an Tools </Strong> </h3>
