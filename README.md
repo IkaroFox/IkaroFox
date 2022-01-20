@@ -43,4 +43,4 @@ Hello everyone 👋, you can call me Victor, I'm Developed Full Stack from Brasi
 <br>
 <h3> <Strong> - Interesting stats </Strong> </h3>
 
-![IkaroFox stats](https://github-readme-stats.vercel.app/api?username=IkaroFox&show_icons=true)
+![IkaroFox stats](https://github-readme-stats.vercel.app/api?username=IkaroFox&show_icons=false)
