@@ -1,8 +1,8 @@
-<h1 align="center">:grinning: Hi there, Victor here!👋</h1>
+<h1 align="center">:grinning: Hello everyone, welcome to here!👋</h1>
 <br>
 <br>
 <p align="left">
-Hello everyone 👋, you can call me Victor, I'm Developed Full Stack from Brasil :brazil:, 23 years old :dizzy: and 7 of coding :robot:, I love to study code security :heart_eyes: and play video-games :video_game:.
+Can call me by Victor, I'm Developed Full Stack from Brasil :brazil:, 23 years old :dizzy: and 7 of coding :robot:, I love to study code security :heart_eyes: and play video-games :video_game:.
 </p>
 <hr>
 <br>
