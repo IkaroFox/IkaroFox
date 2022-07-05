@@ -1,8 +1,12 @@
 <h1 align="center">:grinning: Hello everyone, welcome to here!👋</h1>
+<br>
 <h3 align="left">
-Can call me Victor, I'm developed full stack from Brasil :brazil:, 8 years coding :robot:, I love to study new programming languages , frameworks, strategies of security information :heart_eyes: and play video-games :video_game:.
+By the way, can call me Victor, I'm developed full stack from Brasil :brazil:, 8 years coding :robot:, I love to study new programming languages , frameworks, strategies of security information :heart_eyes: and play video-games :video_game:.
 </h3>
-<hr>
+<br>
+<h3>
+- My status graph.
+</h3>
 <div>
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IkaroFox&show_icons=true&theme=slateorange" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkaroFox&layout=compact&theme=slateorange"/>
