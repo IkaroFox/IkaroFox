@@ -15,7 +15,9 @@ By the way, can call me Victor, I'm developed full stack from Brasil :brazil:, 8
 - Please, colaborate with my little projects.
 </h3>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IkaroFox&repo=NuxtJs-creditCard&theme=slateorange"/>
+<a target="_blank" href="https://github.com/IkaroFox/NuxtJs-creditCard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkaroFox&repo=NuxtJs-creditCard&theme=slateorange"/>
+</a>
 </div>
 <br>
 <h3 align="left"> <Strong> - Work langs and favorites tools </Strong> </h3>
