@@ -4,8 +4,8 @@ Can call me Victor, I'm developed full stack from Brasil :brazil:, 8 years codin
 </h3>
 <hr>
 <div>
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=IkaroFox&show_icons=true&theme=slateorange" />
-<img width="492px" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkaroFox&layout=compact&theme=slateorange"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=IkaroFox&show_icons=true&theme=slateorange" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=IkaroFox&layout=compact&theme=slateorange"/>
 </div>
 <h3>
 - Please, colaborate with my little projects.
