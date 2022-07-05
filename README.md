@@ -8,9 +8,6 @@ Hello everyone 👋, you can call me Victor, I'm Developed Full Stack from Brasi
 <br>
 <h3 align="left"> <Strong> - Contate Me :calling: </Strong>	</h3>
 <br>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5585997435111">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
 <a target="_blank" href="https://www.instagram.com/grimreaperfox/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
