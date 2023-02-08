@@ -43,3 +43,5 @@ By the way, can call me Victor, I'm developed full stack from Brasil :brazil:, 8
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
+<hr>
+Others humans who passed through here. <img src="https://komarev.com/ghpvc/?username=IkaroFox" />
