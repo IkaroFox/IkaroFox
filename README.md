@@ -1,7 +1,7 @@
 <h1 align="center">:grinning: Olá, seja bem vindo!👋</h1>
 <br/>
 <h3 align="left">
-Podem me chamar por Ikaro, Sou desenvolvedor Full Stack :brazil:, estou codando desde os meados de 2015 :robot:, sou ficcionado em segurança computacional, versatilidade do ambiente web, e em um pouco de soulslike (como se ja não bastasse os bugs de cada dia kkkkk).
+Podem me chamar por Victor, Sou desenvolvedor Full Stack :brazil:, estou codando desde os meados de 2015 :robot:, sou ficcionado em segurança computacional, versatilidade do ambiente web, e em um pouco de soulslike (como se ja não bastasse os bugs de cada dia kkkkk).
 </h3>
 <br>
 <h3 align="left"> <Strong> - Linguagens que utilizo e ferramentas favoritas</Strong> </h3>
